@@ -1,2 +1,1 @@
-Linha do tempo - Pokemon identificados:
-Pokemon encontrados: nenhum
+Linha do tempo - Pokemon identificados:\n  2.6s a 3.8s -> mimikyu\n  7.2s a 8.1s -> squirtle\n  9.2s a 9.9s -> squirtle\nPokemon encontrados: mimikyu, squirtle\n
