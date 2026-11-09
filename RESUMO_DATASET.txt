@@ -1,0 +1,1 @@
+Resumo do dataset reconstruido a partir dos videos originais\n- bulbasaur: 48 imagens\n- fundo: 48 imagens\n- gengar: 47 imagens\n- pikachu: 47 imagens\n- Total: 190 imagens\n\nAmostragem: ate 12 frames uniformemente distribuidos por video.\nAs imagens sao derivadas dos videos enviados; nenhuma imagem sintetica foi criada.\n
